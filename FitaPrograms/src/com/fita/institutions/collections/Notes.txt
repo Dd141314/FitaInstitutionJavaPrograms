@@ -1,0 +1,62 @@
+Collections is a Framework
+It is the strength of the Java or Data Structures of the Java
+
+Framework --> Solutions for the existing problems
+
+Then Why we use Collections
+
+Existing problems for the collections is Arrays
+
+1) Arrays are Fixed, Limited to the size, Sequential
+
+Eg:- If we declare array size 100 and we use only one 10 then remaing 90 is wasted
+
+2) Arrays are indexed
+
+Eg:- If want to insert the element in the top of the array
+
+Array biggest problem is Insertion and Deletion
+
+
+
+Collections F/W
+----------------------------------
+
+No need to specify size
+All the collections in java are resizable by default
+It has a lot of predefined methods -> To Hold data, Structure data
+All the libraries are in the java.util.*;
+Collections accept only and only objects
+So Here is the point, Primitives are not allowed in Collections
+Collections are introduce in Java 5 and on that time only wrapper classes are also intruduced
+Most Commonly used collections are List , Set and Map
+Collection includes Interfaces,Classes and Algorithms
+All the collections are iterable
+
+
+Wrapper Classes
+-------------------------
+It wraps the property primitive and called it has an object
+
+
+Interface
+----------------------------
+Classes are providers of the Interface
+
+List
+--------------
+*List looks exactly like an Array but it is dynamic.
+*maintains order of insertion.
+*allows duplications.
+*allows any number of null values.
+*List is implemented in ArrayList,Vector and LinkedList classes.
+*List is indexed i.e it has positions for all the values.
+*Contigous
+*Internally using array but how it is dynamic ?
+
+
+
+
+
+
+
