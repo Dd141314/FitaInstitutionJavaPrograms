@@ -1,0 +1,12 @@
+Java is not the completely under object oriented programming.
+Because it contains primitive datatypes (int,float,char) derived from C and C++
+
+Wrapper Class ( For Each primitive datatype , new class designed)
+Integer
+Byte
+Character
+Double
+
+Passing Primitive datatype value into Class Object is called Wrapping in Java and Boxing in OOPS Concept
+
+AutoBoxing and AutoUnBoxing versions are working from Java 1.6

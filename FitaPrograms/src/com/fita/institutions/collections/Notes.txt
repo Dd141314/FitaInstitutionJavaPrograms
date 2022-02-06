@@ -43,16 +43,40 @@ Interface
 ----------------------------
 Classes are providers of the Interface
 
-List
+List<E> Interface
 --------------
-*List looks exactly like an Array but it is dynamic.
+*List looks exactly like an Array but it is dynamic in nature.
 *maintains order of insertion.
 *allows duplications.
 *allows any number of null values.
 *List is implemented in ArrayList,Vector and LinkedList classes.
 *List is indexed i.e it has positions for all the values.
-*Contigous
+*Contigous address allocation
+
+
 *Internally using array but how it is dynamic ?
+---------------------------------------------------
+
+
+Thread Safe ?
+------------------
+Load Distributed and works parellely
+Load Sharing
+
+If It has Inter thread communication , It is called thread safe else it is not thread safe.
+
+Only we can build inter thread communication in the thread safe classes, where all the methods in this class are synchronized
+such class is called as thread safe class.
+
+Inter thread communication is slower than not thread safe class
+
+Legacy class
+--------------------
+Have backward compatibility
+
+
+
+
 
 
 
